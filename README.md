@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @limpwn
-- 👀 I’m interested in Python, PowerShell, generel prograwmming. 
+- 👀 I’m interested in Python, PowerShell, generel software dev.
 - 🌱 I’m currently learning PowerShell
 - 💞️ I’m looking to collaborate on Python projects in Data Science or Machine Learning
 - 📫 How to reach me twitter.com/limpwn linusliljawow@gmail.com
+- I've a certification for Data Science and Machine Learning in Python
 - 
 
 <!---
